@@ -1,0 +1,48 @@
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
+xst -intstyle ise -ifn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.xst" -ofn "C:/Users/nino/Desktop/TsotneLab/475extraLab/extra470perfOp/perfOp.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1200e-ft256-4 perfOp.ngc perfOp.ngd  
+map -intstyle ise -p xc3s1200e-ft256-4 -cm area -ir off -pr off -c 100 -o perfOp_map.ncd perfOp.ngd perfOp.pcf 
+par -w -intstyle ise -ol high -t 1 perfOp_map.ncd perfOp.ncd perfOp.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml perfOp.twx perfOp.ncd -o perfOp.twr perfOp.pcf 
